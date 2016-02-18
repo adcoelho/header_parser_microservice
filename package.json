@@ -9,6 +9,7 @@
   "author": "Antonio Coelho <antoniodcoelho@gmail.com> (https://github.com/adcoelho)",
   "license": "ISC",
   "dependencies": {
+    "locale": "0.0.20",
     "ua-parser-js": "^0.7.10"
   }
 }
