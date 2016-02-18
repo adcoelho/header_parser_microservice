@@ -1,0 +1,11 @@
+{
+  "name": "request_header_parser_microservice",
+  "version": "0.0.0",
+  "description": "Microservice that shows the ip, language and os of the users's browser.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Coelho <antoniodcoelho@gmail.com> (https://github.com/adcoelho)",
+  "license": "ISC"
+}
